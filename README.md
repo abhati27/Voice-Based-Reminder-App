@@ -15,7 +15,7 @@ Note: If you encounter issues installing PyAudio, you may need to install additi
 
 ## Running the Application
  1. Clone the repository or download the source code:
-    using "git clone https://github.com/<yourusername>/reminder-application.git"
+    using "git clone https://github.com/yourusername/reminder-application.git"
   
  2. Change to the directory containing the source code:
     using "cd reminder-application"
