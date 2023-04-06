@@ -2,6 +2,8 @@
 
 The Reminder Application is a voice-activated tool built with Python, Tkinter, and Google Speech Recognition. It allows users to manage reminders by adding, editing, and removing them through an easy-to-use interface, streamlining organization and time management.
 
+<img width="927" alt="Screen Shot 2023-04-06 at 5 17 55 PM" src="https://user-images.githubusercontent.com/60200047/230506418-305bce3d-c73f-4e62-bee5-55bed7e7b9ab.png">
+
 ## Features
 * Voice command support for adding, editing, and removing reminders
 * Displays reminders and feedback on the user interface
@@ -24,4 +26,8 @@ Note: If you encounter issues installing PyAudio, you may need to install additi
     using "python reminder_app.py"
   
  4. The application should now be running. You can start using voice commands to add, edit, or remove reminders.
+ 
+## Usage
+- Add a reminder: Say "add reminder [reminder name] at [time]".
+-- Example: "add reminder homework at 6".
  
