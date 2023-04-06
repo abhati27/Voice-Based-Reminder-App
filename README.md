@@ -28,6 +28,15 @@ Note: If you encounter issues installing PyAudio, you may need to install additi
  4. The application should now be running. You can start using voice commands to add, edit, or remove reminders.
  
 ## Usage
-- Add a reminder: Say "add reminder [reminder name] at [time]".
--- Example: "add reminder homework at 6".
+- Add a reminder: Say "add reminder [reminder name] at [time]". Example: "add reminder homework at 6".
+- Edit a reminder: Say "edit reminder [reminder name]" and wait for the prompt to say the new time. Example: "edit reminder homework", then wait and say "8".
+- Remove a reminder: Say "remove reminder [reminder name]". Example: "remove reminder homework".
+
+## Troubleshooting
+
+If you encounter issues with the application, please ensure that your microphone is working correctly and that you have granted the application permission to access your microphone. Additionally, check that you have installed all the required dependencies.
+
+## Contributing
+
+Feel free to open an issue or submit a pull request if you would like to contribute to the project.
  
